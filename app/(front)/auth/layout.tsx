@@ -14,10 +14,10 @@ export default function AuthLayout({
           <div className="relative z-10 flex flex-col justify-center">
             <div className="mb-8">
               <div className="flex items-center mb-6">
-                <span className="text-3xl font-bold text-white">Orange</span>
+                {/* <span className="text-3xl font-bold text-white">Orange</span> */}
                 <div className="ml-2">
                   <span className="text-lg font-medium text-white/90">Health</span>
-                  <span className="text-lg font-medium text-orange-200">Labs</span>
+                  <span className="text-lg font-medium text-orange-200">Hub</span>
                 </div>
               </div>
               <h1 className="text-4xl font-bold mb-4">Your Health, Our Priority</h1>

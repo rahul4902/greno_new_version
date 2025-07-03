@@ -94,10 +94,10 @@ function Sidebar({ className }: { className?: string }) {
         <div className="px-3 py-2">
           <div className="flex items-center mb-6">
             <div className="flex items-center">
-              <span className="text-xl font-bold text-orange-500">Orange</span>
+              {/* <span className="text-xl font-bold text-orange-500">Orange</span> */}
               <div className="ml-1">
                 <span className="text-sm font-medium text-gray-700">Health</span>
-                <span className="text-sm font-medium text-orange-500">Labs</span>
+                <span className="text-sm font-medium text-orange-500">Hub</span>
               </div>
             </div>
           </div>

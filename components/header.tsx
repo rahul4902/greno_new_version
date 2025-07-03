@@ -73,10 +73,10 @@ export function Header() {
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-3">
               <div className="flex items-center">
-                <span className="text-2xl font-bold text-orange-500">Orange</span>
+                {/* <span className="text-2xl font-bold text-orange-500">Orange</span> */}
                 <div className="ml-1">
                   <span className="text-lg font-medium text-gray-700">Health</span>
-                  <span className="text-lg font-medium text-orange-500">Labs</span>
+                  <span className="text-lg font-medium text-orange-500">Hub</span>
                 </div>
               </div>
             </Link>

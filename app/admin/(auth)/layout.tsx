@@ -14,10 +14,10 @@ export default function AdminAuthLayout({
           <div className="relative z-10 flex flex-col justify-center">
             <div className="mb-8">
               <div className="flex items-center mb-6">
-                <span className="text-3xl font-bold text-orange-400">Orange</span>
+                {/* <span className="text-3xl font-bold text-orange-400">Orange</span> */}
                 <div className="ml-2">
                   <span className="text-lg font-medium text-white">Health</span>
-                  <span className="text-lg font-medium text-orange-400">Labs</span>
+                  <span className="text-lg font-medium text-orange-400">Hub</span>
                 </div>
                 <div className="ml-4 px-3 py-1 bg-orange-500/20 rounded-full">
                   <span className="text-sm font-medium text-orange-300">Admin</span>
